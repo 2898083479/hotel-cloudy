@@ -1,0 +1,33 @@
+server:
+  port: 7073
+spring:
+  application:
+    name: room-service
+  datasource:
+    url: jdbc:mysql://192.168.88.147:3307/hotel_client?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=Asia/Shanghai
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123
+mybatis-plus:
+  type-aliases-package: com.wx.domain.po
+  mapper-locations: classpath*:mapper/**/*.xml
+  global-config:
+    db-config:
+      id-type: auto
+      update-strategy: ignored
+
+knife4j:
+  enable: true
+  openapi:
+    title: 房间管理接口文档
+    description: "房间管理接口文档"
+    email: 2898083479@qq.com
+    concat: wuzhonlou
+    url: https://localhost:8080
+    version: v1.0
+    group:
+      default:
+        group-name: wx-group
+        api-rule: package
+        api-rule-resources:
+          - com.wx.hotel.controller
