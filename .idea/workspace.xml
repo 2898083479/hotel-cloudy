@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df0455fb-1dcd-4275-8efe-809e77ddfc1d" name="Changes" comment="" />
+    <list default="true" id="df0455fb-1dcd-4275-8efe-809e77ddfc1d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-admin/src/main/java/com/wx/hotel/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-admin/src/main/java/com/wx/hotel/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-admin/src/main/java/com/wx/hotel/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-admin/src/main/java/com/wx/hotel/service/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-admin/src/main/java/com/wx/hotel/service/impl/AdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-admin/src/main/java/com/wx/hotel/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-admin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-admin/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-admin/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-admin/target/classes/com/wx/hotel/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-admin/target/classes/com/wx/hotel/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-admin/target/classes/com/wx/hotel/domain/po/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-admin/target/classes/com/wx/hotel/domain/po/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-admin/target/classes/com/wx/hotel/mapper/AdminMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-admin/target/classes/com/wx/hotel/mapper/AdminMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-admin/target/classes/com/wx/hotel/service/AdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-admin/target/classes/com/wx/hotel/service/AdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-admin/target/classes/com/wx/hotel/service/impl/AdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-admin/target/classes/com/wx/hotel/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-client/src/main/java/com/wx/hotel/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-client/src/main/java/com/wx/hotel/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-client/src/main/java/com/wx/hotel/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-client/src/main/java/com/wx/hotel/service/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-client/src/main/java/com/wx/hotel/service/impl/ClientServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-client/src/main/java/com/wx/hotel/service/impl/ClientServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-common/src/main/java/com/wx/hotel/interceptor/AdminInfoInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-common/src/main/java/com/wx/hotel/interceptor/AdminInfoInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-common/target/classes/com/wx/hotel/interceptor/AdminInfoInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-common/target/classes/com/wx/hotel/interceptor/AdminInfoInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-room/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-room/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-room/src/main/java/com/wx/hotel/controller/RoomController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-room/src/main/java/com/wx/hotel/controller/RoomController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-room/src/main/java/com/wx/hotel/service/RoomService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-room/src/main/java/com/wx/hotel/service/RoomService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-room/src/main/java/com/wx/hotel/service/impl/RoomServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-room/src/main/java/com/wx/hotel/service/impl/RoomServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +41,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -34,6 +61,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2n8cy4ozn1ACBfMxXKHD4cwswid" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -50,7 +80,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hotel-client" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hotel-admin/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.13378906" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -60,6 +90,13 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\hotel-cloud\hotel-admin\src\main\resources" />
+      <recent name="G:\hotel-cloud\hotel-common\src\main\java\com\wx\hotel" />
+      <recent name="G:\hotel-cloud\hotel-admin\src\main\java\com\wx\hotel" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -67,7 +104,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.RoomApplication">
+  <component name="RunManager" selected="Spring Boot.AdminApplication">
     <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="hotel-admin" />
       <extension name="coverage">
@@ -94,6 +131,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hotel-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wx.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wx.hotel.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RoomApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="hotel-room" />
       <extension name="coverage">
@@ -109,9 +159,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.AdminApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
         <item itemvalue="Spring Boot.RoomApplication" />
         <item itemvalue="Spring Boot.ClientApplication" />
-        <item itemvalue="Spring Boot.AdminApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -148,10 +199,55 @@
       <workItem from="1728400686162" duration="157000" />
       <workItem from="1728400866433" duration="878000" />
       <workItem from="1728401765564" duration="1971000" />
+      <workItem from="1728465279824" duration="1678000" />
+      <workItem from="1728480898712" duration="183000" />
+      <workItem from="1728481094709" duration="674000" />
+      <workItem from="1728481913264" duration="839000" />
+      <workItem from="1728482900372" duration="87000" />
+      <workItem from="1728483016575" duration="461000" />
+      <workItem from="1728483508867" duration="999000" />
+      <workItem from="1728484562099" duration="3051000" />
+      <workItem from="1728521749483" duration="569000" />
+      <workItem from="1728522730556" duration="109000" />
+      <workItem from="1728522874685" duration="28000" />
+      <workItem from="1728522921407" duration="2598000" />
+      <workItem from="1728525729272" duration="325000" />
+      <workItem from="1728527642406" duration="1032000" />
+      <workItem from="1728529677011" duration="187000" />
+      <workItem from="1728549084682" duration="6000" />
+      <workItem from="1728549106628" duration="388000" />
+      <workItem from="1728549540191" duration="572000" />
+      <workItem from="1728550298476" duration="5000" />
+      <workItem from="1728550598538" duration="1092000" />
+      <workItem from="1728551723160" duration="84000" />
+      <workItem from="1728551829109" duration="317000" />
+      <workItem from="1728552430371" duration="720000" />
+      <workItem from="1728553240603" duration="710000" />
+      <workItem from="1728554248962" duration="26000" />
+      <workItem from="1728554294039" duration="193000" />
+      <workItem from="1728554566400" duration="18000" />
+      <workItem from="1728554606403" duration="14000" />
+      <workItem from="1728554635829" duration="783000" />
+      <workItem from="1728555460788" duration="2388000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>

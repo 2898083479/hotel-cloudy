@@ -8,6 +8,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: 123
+
 mybatis-plus:
   type-aliases-package: com.wx.domain.po
   mapper-locations: classpath*:mapper/**/*.xml
@@ -15,6 +16,7 @@ mybatis-plus:
     db-config:
       id-type: auto
       update-strategy: ignored
+
 
 knife4j:
   enable: true
@@ -31,4 +33,3 @@ knife4j:
         api-rule: package
         api-rule-resources:
           - com.wx.hotel.controller
-
